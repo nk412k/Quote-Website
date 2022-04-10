@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quote-Website/static/css/main.3beca513.css",
+    "main.js": "/Quote-Website/static/js/main.854eaff3.js",
+    "index.html": "/Quote-Website/index.html",
+    "main.3beca513.css.map": "/Quote-Website/static/css/main.3beca513.css.map",
+    "main.854eaff3.js.map": "/Quote-Website/static/js/main.854eaff3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3beca513.css",
+    "static/js/main.854eaff3.js"
+  ]
+}
